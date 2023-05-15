@@ -1,3 +1,45 @@
-body {
-    background-color: rgb(10, 160, 160);
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
+html {
+  background-image: url('https://i.pinimg.com/originals/3f/d0/09/3fd00955b20e8204969ebcb29eaf2387.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #00203FFF;
+  background-blend-mode: overlay;
+
+}
+body{
+  height: 95%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+h1{
+  text-align: left;
+  padding: .5px;
+}
+h3{
+  padding: 10px;
+  text-align: center;
+  border: 1px solid;
+  background-color: #00203FFF;
+}
+
+table{
+    width: 100%;
+}
+  
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid;
+    background-color: #00203FFF;
+}
+  
+
+
