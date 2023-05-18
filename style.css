@@ -10,6 +10,7 @@ html {
   background-size: cover;
   background-color: #00203FFF;
   background-blend-mode: overlay;
+  background-attachment: fixed;
 
 }
 body{
